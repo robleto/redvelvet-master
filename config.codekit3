@@ -66,7 +66,7 @@
 		"iS": 3501,
 		"oA": 0,
 		"oAP": "/build/assets/img/lamda.png",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
@@ -263,9 +263,9 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/build/assets/scss/_base.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -278,7 +278,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/build/assets/scss/_normalize.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -291,7 +291,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/build/assets/scss/style.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -319,7 +319,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/index_bak.html",
-		"oF": 0
+		"oF": 1
 		},
 	"/source/index_way_bak.html": {
 		"cB": 0,
@@ -327,7 +327,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/index_way_bak.html",
-		"oF": 0
+		"oF": 1
 		}
 	},
 "hooks": [
