@@ -7,20 +7,155 @@
       "uuidString" : "94D02FD4-D12A-4A72-815B-F5689A1B6503"
     }
   ],
-  "creatorBuild" : "34434",
+  "creatorBuild" : "34484",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/.gitignore",
+      "oAP" : "\/.gitignore",
       "oF" : 0
     },
-    "\/build" : {
-      "ft" : 65536,
+    "\/css\/_base.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/build\/build",
+      "oAP" : "\/css\/_base.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/css\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/css\/style.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/img\/icon-cupcake.png" : {
+      "ft" : 32768,
+      "iS" : 1091,
+      "oA" : 0,
+      "oAP" : "\/img\/icon-cupcake.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/lamda.png" : {
+      "ft" : 32768,
+      "iS" : 3501,
+      "oA" : 0,
+      "oAP" : "\/img\/lamda.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/logo-on-red.png" : {
+      "ft" : 32768,
+      "iS" : 90850,
+      "oA" : 0,
+      "oAP" : "\/img\/logo-on-red.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/logo.gif" : {
+      "ft" : 4194304,
+      "iS" : 22615,
+      "oA" : 0,
+      "oAP" : "\/img\/logo.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/img\/profilepic-annie.jpg" : {
+      "ft" : 16384,
+      "iS" : 8554,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/profilepic-annie.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/profilepic-selena.jpg" : {
+      "ft" : 16384,
+      "iS" : 10778,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/profilepic-selena.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/red-bg.jpg" : {
+      "ft" : 16384,
+      "iS" : 144521,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/img\/red-bg.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/twitter.png" : {
+      "ft" : 32768,
+      "iS" : 1274,
+      "oA" : 0,
+      "oAP" : "\/img\/twitter.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/index.html",
+      "oF" : 0
+    },
+    "\/README.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
       "oF" : 0
     },
     "\/README.md" : {
@@ -33,7 +168,7 @@
       "ft" : 4096,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/README.html",
+      "oAP" : "\/README.html",
       "oF" : 0,
       "oFM" : 0,
       "oS" : 0,
@@ -41,145 +176,6 @@
       "pME" : 1,
       "rFN" : 0,
       "uCM" : 0
-    },
-    "\/source\/assets\/img\/icon-cupcake.png" : {
-      "ft" : 32768,
-      "iS" : 1559,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/icon-cupcake.png",
-      "oF" : 1,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/img\/lamda.png" : {
-      "ft" : 32768,
-      "iS" : 3501,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/lamda.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/img\/logo-on-red.png" : {
-      "ft" : 32768,
-      "iS" : 290669,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/logo-on-red.png",
-      "oF" : 1,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/img\/logo.gif" : {
-      "ft" : 4194304,
-      "iS" : 22623,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/logo.gif",
-      "oF" : 1,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
-    "\/source\/assets\/img\/profilepic-annie.jpg" : {
-      "ft" : 16384,
-      "iS" : 9463,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/profilepic-annie.jpg",
-      "oF" : 1,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/img\/profilepic-selena.jpg" : {
-      "ft" : 16384,
-      "iS" : 11675,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/profilepic-selena.jpg",
-      "oF" : 1,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/img\/red-bg.jpg" : {
-      "ft" : 16384,
-      "iS" : 145463,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/red-bg.jpg",
-      "oF" : 1,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/img\/twitter.png" : {
-      "ft" : 32768,
-      "iS" : 2280,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/img\/twitter.png",
-      "oF" : 1,
-      "oIPL" : 0,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/source\/assets\/scss\/_base.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/scss\/_base.css",
-      "oF" : 1,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/source\/assets\/scss\/style.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/assets\/scss\/style.css",
-      "oF" : 1,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 1
-    },
-    "\/source\/index.html" : {
-      "cB" : 1,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/index.html",
-      "oF" : 3
     }
   },
   "hooks" : [
@@ -194,7 +190,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "meme-ariel",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 706135735.62864399
+    "lastBuiltDate" : 716761182.77132905
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -489,8 +485,8 @@
     "browserRefreshDelay" : 0,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
     "buildEnvironment" : 0,
-    "buildFolderActive" : 1,
-    "buildFolderName" : "build",
+    "buildFolderActive" : 0,
+    "buildFolderName" : "public",
     "cleanBuild" : 1,
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
@@ -710,6 +706,10 @@
         "active" : 0,
         "optionString" : "'always', {exceptAfterSingleLine: false}"
       },
+      "logical-assignment-operators" : {
+        "active" : 0,
+        "optionString" : "'always',  {'enforceForIfStatements': false}"
+      },
       "max-classes-per-file" : {
         "active" : 0,
         "optionString" : "1"
@@ -870,6 +870,9 @@
       "no-empty-pattern" : {
         "active" : 1
       },
+      "no-empty-static-block" : {
+        "active" : 0
+      },
       "no-eq-null" : {
         "active" : 0
       },
@@ -1008,6 +1011,9 @@
         "active" : 0
       },
       "no-new-func" : {
+        "active" : 0
+      },
+      "no-new-native-nonconstructor" : {
         "active" : 0
       },
       "no-new-object" : {
@@ -1698,7 +1704,7 @@
       "moduleType" : 2,
       "removeComments" : 0,
       "sourceMapStyle" : 0,
-      "targetECMAVersion" : 0
+      "targetECMAVersion" : 2018
     },
     "languageDefaultsUserDefined" : [
 
@@ -1750,10 +1756,14 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
+    "rollupTreeshakingModuleSideEffects" : 1,
     "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
+    "tsAllowArbitraryExtensions" : 0,
+    "tsAllowImportingTSExtensions" : 0,
     "tsAllowSyntheticDefaultImports" : 0,
+    "tsAllowUMDGlobalAccess" : 0,
     "tsAllowUnreachableCode" : 0,
     "tsAllowUnusedLabels" : 0,
     "tsAlwaysStrict" : 0,
@@ -1762,36 +1772,36 @@
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
     "tsExactOptionalPropertyTypes" : 0,
+    "tsExperimentalDecorators" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
-    "tsKeyofStringsOnly" : 0,
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
     "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
-    "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
     "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
-    "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
     "tsNoUnusedLocals" : 0,
     "tsNoUnusedParameters" : 0,
     "tsPreserveConstEnums" : 0,
     "tsPreserveSymlinks" : 0,
     "tsResolveJsonModule" : 0,
+    "tsSkipDefaultLibCheck" : 0,
     "tsSkipLibCheck" : 0,
+    "tsStrictBindCallApply" : 0,
     "tsStrictFunctionTypes" : 0,
     "tsStrictNullChecks" : 0,
     "tsStrictPropertyInitialization" : 0,
     "tsStripInternal" : 0,
-    "tsSuppressExcessPropertyErrors" : 0,
-    "tsSuppressImplicitAnyIndexErrors" : 0,
+    "tsUseDefineForClassFields" : 0,
     "tsUseUnknownInCatchVariables" : 0,
+    "tsVerbatimModuleSyntax" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {
@@ -1824,7 +1834,7 @@
       },
       "comments" : {
         "active" : 0,
-        "flagValue" : -1
+        "flagValue" : 1
       },
       "comparisons" : {
         "active" : 1,
@@ -2076,7 +2086,7 @@
     "webpPresets" : {
 
     },
-    "websiteRelativeRoot" : "\/build"
+    "websiteRelativeRoot" : ""
   },
   "settingsFileVersion" : "3"
 }
